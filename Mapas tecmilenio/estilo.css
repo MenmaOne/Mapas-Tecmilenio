@@ -1,0 +1,23 @@
+#map {
+	height: 500px;
+	width: 100%;
+}
+
+/* Estilo para el encabezado de la página */
+.navbar {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+/* Estilo para las tarjetas de campus */
+.card {
+    margin: 16px;
+	margin-top: 30 px;
+    border: none;
+    border-radius: 10px;
+}
+
